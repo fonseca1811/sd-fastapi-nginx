@@ -1,0 +1,10 @@
+[project]
+name = "projeto-sd-nginx"
+version = "0.2.0"
+description = "API FastAPI organizada em pacotes, publicada atrás de um proxy reverso Nginx"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+]
