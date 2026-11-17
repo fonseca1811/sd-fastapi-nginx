@@ -2,7 +2,7 @@
 
 Atividade complementar de **Sistemas Distribuídos**: continuação do projeto da aula anterior.
 
-**Aluno:** João Vitor Fonseca Matos (atividade individual, combinada com o professor em sala)
+**Aluno:** João Vitor Fonseca Matos
 
 O que foi feito nesta etapa:
 
